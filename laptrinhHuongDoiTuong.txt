@@ -1,0 +1,6 @@
+Hướng đối tượng có 4 tính chất:
+-Tính trừu tượng (abstraction)
+-Tính đóng gói (encapsulation)
+-Tính kế thừa (inheritance)
+-Tính đa hình (polymorphism)
+

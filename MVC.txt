@@ -1,0 +1,6 @@
+MVC:
+-Models: Chứa các file js là lớp đối tượng (prototype)
+-Views: Chứa các file html (giao diện ứng dụng)
+-Controller: Chứa các file js điều hướng giao diện ứng dụng
+-Services: + Chứa các file js kết nối backEnd
+	   + BaseServices: Chứa các phương thức chung: get, post, put, delate....
